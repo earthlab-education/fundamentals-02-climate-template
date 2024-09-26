@@ -1,6 +1,6 @@
-# Assignment bootcamp-02-get-started-python
+# Climate Coding Challenge
 
-To complete this assignment:
+To complete this assignment on GitHub Codespaces:
 
     1. Open the notebooks in GitHub Codespaces by clicking the Code button > Codespaces tab > Open new Codespace on main
     2. Wait for the Codespace to load - this can take a few minutes the first time
