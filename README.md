@@ -1,22 +1,37 @@
-# Climate Coding Challenge
+# Earth Data Analytics Coding Challenge 1: Climate Change in Boulder
 
-To complete this assignment on GitHub Codespaces:
+Higher highs, lower lows, storms, and smoke -- we're all feeling the effects of climate change. In this workflow, you will take a look at trends in temperature over time in Boulder, CO.
 
-    1. Open the notebooks in GitHub Codespaces by clicking the Code button > Codespaces tab > Open new Codespace on main
-    2. Wait for the Codespace to load - this can take a few minutes the first time
-    3. Complete the notebook(s)
-    4. Use the GitHub tab in your Codespace to commit AND sync your changes
+You can find demo videos, further reading, and solution code online in the [ESIIL Learning Portal Stars Textbook](https://cu-esiil-edu.github.io/esiil-learning-portal/notebooks/01-climate/climate-shortcourse.html)
 
-Your changes will then be available to the teaching team to look at.
+## Getting started using GitHub Codespaces
 
-Once you have finished the notebook(s):
-    1. Create a new notebook in your portfolio repository
-    2. Concisely duplicate your analysis in a location and time of your choosing (i.e. only include the code needed to generate the main plot you make)
-    3. Add a headline and description discussing your results
-    4. Convert your notebook to Markdown or HTML.
-    5. Add a link to the live web version to the corresponding table in the class repository. You may also want to add a link to the home page of your portfolio!
+To get started from the main repository page:
+  1. Click on the green `Code` dropdown in the upper right
+  2. Open the `Codespaces` tab
+  3. Click `Create codespace on main`
 
-The following code may help you to export your analysis:
+It can take a few minutes for the codespace to load for the first time. Be patient! It doesn't make it go faster to try again. You can find out more about all your codespaces at https://www.github.com/codespaces. If you are using this repository through GitHub Classroom, you shouldn't run out of codespace minutes, but you can run out of storage space if you have too many codespaces open or download too much data.
+
+## Challenge overview
+
+There are 3 parts to this coding challenge:
+
+  1. Complete the analysis notebooks in this repository with the sample data
+  2. Complete the download notebook in this repository to practice accessing data
+  3. Write a portfolio post (optional, but this is an option for your final project!):
+     
+       a. Come up with your own scientific question you can answer or explore with similar data
+       b. Create a new notebook in this repository
+       b. Reproduce the analysis to help answer your question
+       c. Write a portfolio post explaining your results
+       d. Upload the post to your data science portfolio webpage to show off your work!
+
+Do your best to finish at least the two required parts of the coding challenge by the due date for this challenge. We're here to help!
+
+## Portfolio tip
+
+The following code may help you to export your analysis if you want to put it on your portfolio:
 
 ```bash
 jupyter nbconvert <your-notebook-name>.ipynb --to markdown --no-input
